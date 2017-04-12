@@ -132,7 +132,7 @@ def Sqlquery():
     host = 'localhost'
     username = 'root'
     port = 3306
-    password = 'dwdstudent2015'
+    password = 'DOISSI'
     database = 'Economist'
     
     conn_template = 'mysql+mysqldb://{u}:{pw}@{h}:{p}/{d}'
