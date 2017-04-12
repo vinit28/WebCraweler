@@ -54,7 +54,7 @@ data = [parseArticleNode(article) for article in articleNodes]
 #SETTING UP THE DATABASE CONNECTION
 con = mdb.connect(host = 'localhost', 
                   user = 'root', 
-                  passwd = 'dwdstudent2015', 
+                  passwd = 'DOOSCHE', 
                   charset='utf8', use_unicode=True);
 
 # Check for existing database
